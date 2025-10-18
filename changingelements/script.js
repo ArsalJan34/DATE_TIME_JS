@@ -11,4 +11,4 @@ d.setHours(15);
 d.setMinutes(30);
 d.setSeconds(45);
 
-console.log("After change:", d);
+console.log("After changing:", d);
